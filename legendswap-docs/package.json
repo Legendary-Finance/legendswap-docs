@@ -1,0 +1,30 @@
+{
+  "name": "legendswap-docs",
+  "version": "1.0.0",
+  "description": "Guideline for LegendSwap on BSC Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-app test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legendary-Finance/legendswap-docs.git"
+  },
+  "keywords": [
+    "legendary",
+    "defi",
+    "binance",
+    "amm",
+    "farming"
+  ],
+  "author": "legendary-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Legendary-Finance/legendswap-docs/issues"
+  },
+  "homepage": "https://github.com/Legendary-Finance/legendswap-docs#readme",
+  "dependencies": {
+    "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.70",
+    "docusaurus": "^1.14.6"
+  }
+}
